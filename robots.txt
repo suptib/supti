@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://suptib.github.io/supti/sitemap.xml
+Sitemap: https://suptib.github.io/sitemap.xml
