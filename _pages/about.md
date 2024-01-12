@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>9 Greenhouse Road, Rm 264</p>
-    <p>123 your address street</p>
+    <p>9 Greenhouse Road, Tyler Hall Rm 264</p>
     <p>Kingston, RI 02881</p>
 
 news: true # includes a list of news items
