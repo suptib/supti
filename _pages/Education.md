@@ -7,7 +7,8 @@ nav: true
 nav_order: 2
 ---
 
-##### University of Rhode Island 
+#### University of Rhode Island
+Aug, 2022 - Present 
 
 
 <!-- _pages/publications.md -->
