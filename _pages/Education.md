@@ -9,10 +9,9 @@ nav_order: 2
 
 - #### University of Rhode Island
 Aug, 2022 - Present | Kingston, Rhode Island
-   -
-   Advisor: Dr. Gavino Puggioni 
-   -
-   Courses:     
+
+Advisor: Dr. Gavino Puggioni 
+Courses:     
 
 
 <!-- _pages/publications.md -->
