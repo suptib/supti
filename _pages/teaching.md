@@ -2,7 +2,7 @@
 layout: page
 permalink: /Teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: I started working as a teaching assistant in Fall 2022. Here's a brief description of my teaching experience 
 nav: true
 nav_order: 6
 ---
