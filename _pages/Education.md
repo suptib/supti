@@ -17,11 +17,13 @@ Spectrum Disorder
 Categorical Data Analysis Method • Spatial Data Analysis • Neural Networks & Deep Learning • Time
 Series Analysis • Survival Analysis   
     
+
 - ##### MS in Statistics | University of Dhaka
 ###### Feb, 2021 - June, 2022 | Dhaka, Bangladesh
 
    - Courses taken: Theory of Inference • Advanced Biostatistics • Advanced Sampling Methods • Advanced
 Econometrics • Applied Multivariate Analysis • Design & Analysis of Experiment
+
 
 - ##### BS in Statistics | University of Dhaka
 ###### Jan, 2016 - Jan, 2021 | Dhaka, Bangladesh
