@@ -2,7 +2,7 @@
 layout: page
 title: Experience 
 permalink: /experience/
-description: A growing collection of your cool projects.
+description: A growing collection of your cool proje
 nav: true
 nav_order: 4
 display_categories: [R, Python]
