@@ -9,7 +9,7 @@ display_categories: [R, Python]
 horizontal: false
 ---
 
- pages/projects.md 
+ pages/projects 
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
    Display categorized projects 
