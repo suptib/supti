@@ -5,7 +5,7 @@ permalink: /experience/
 description: A growing collection of your cool projec
 nav: true
 nav_order: 4
-display_categories: [R, Python]
+display_categories: [R, R]
 horizontal: false
 ---
 
