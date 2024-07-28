@@ -13,7 +13,7 @@ horizontal: true
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
    A few of my class projects from several courses during my Master's program at URI     
-   write something here 
+ 
   {% for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
   {% assign categorized_projects = site.projects | where: "category", category %}
