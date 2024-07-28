@@ -12,7 +12,7 @@ horizontal: true
  pages/projects 
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
-   Display categorized projects 
+   A few of my class projects from several courses during my Master's     
    write something here 
   {% for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
