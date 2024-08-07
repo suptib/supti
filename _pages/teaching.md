@@ -10,7 +10,7 @@ nav_order: 6
 - ##### Fall 2022 & Fall 2023 | University of Rhode Island
 ###### Course: STA 308-Introductory Statistics | Department of Computer Science & Statistics 
 
-   - <font size="1">Course: STA 308-Introductory Statistics  
+   - <font size="3">Course: STA 308-Introductory Statistics</font> 
    - Responsibilities: Weekly one lecture in each of two sections every week, Grade homework and exams, Create exam questions
    - Topics Covered: I taught descriptive statistics, basic probability theory and elements of inferential techniques, point and interval estimates, regression, and hypothesis testing 
-   - Tools Used: MS Excel & Minitab</font> 
+   - Tools Used: MS Excel & Minitab
