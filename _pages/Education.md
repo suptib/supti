@@ -11,7 +11,7 @@ nav_order: 2
 ###### Aug, 2022 - Present | Kingston, Rhode Island
 
    - <font size="2"><strong>Advisor:</strong> Dr. Gavino Puggioni</font> 
-   - <font size="2"><strong>Thesis: Neonatal Cry Acoustics and Neurobehavioral Characteristics as Early Markers of Risk for Autism
+   - <font size="2"><strong>Thesis:</strong> Neonatal Cry Acoustics and Neurobehavioral Characteristics as Early Markers of Risk for Autism
 Spectrum Disorder</font>
    - <font size="2"><strong>Courses:</strong> Applied Regression Analysis • Multivariate Statistical Methods • Bayesian Statistics •
 Categorical Data Analysis Method • Spatial Data Analysis • Neural Networks & Deep Learning • Time
