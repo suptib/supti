@@ -11,8 +11,6 @@ nav_order: 6
 ###### Department of Computer Science & Statistics 
 
    - Course: STA 308-Introductory Statistics  
-   - Thesis: Neonatal Cry Acoustics and Neurobehavioral Characteristics as Early Markers of Risk for Autism
-Spectrum Disorder
-   - Courses: Applied Regression Analysis • Multivariate Statistical Methods • Bayesian Statistics •
-Categorical Data Analysis Method • Spatial Data Analysis • Neural Networks & Deep Learning • Time
-Series Analysis • Survival Analysis 
+   - Responsibilities: Weekly one lecture in each of two sections every week, Grade homework and exams, Create exam questions
+   - Topics Covered: I taught descriptive statistics, basic probability theory and elements of inferential techniques, point and interval estimates, regression, and hypothesis testing 
+   - Tools Used: MS Excel & Minitab 
