@@ -13,5 +13,6 @@ nav_order: 6
    - <font size="2"><strong>Responsibilities:</strong> Weekly one lecture in each of two sections every week, Grade homework and exams, Create exam questions</font> 
    - <font size="2"><strong>Topics Covered:</strong> I taught descriptive statistics, basic probability theory and elements of inferential techniques, point and interval estimates, regression, and hypothesis testing</font> 
    - <font size="2"><strong>Tools Used:</strong> MS Excel & Minitab</font> 
+   --- 
 
    
