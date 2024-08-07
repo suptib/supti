@@ -15,7 +15,7 @@ nav_order: 6
    - <font size="2"><strong>Tools Used:</strong> MS Excel & Minitab</font> 
    --- 
 
-   - ##### Summer 2023 | University of Rhode Island
+- ##### Summer 2023 | University of Rhode Island
 ###### DSP 552: Computer-based Data Exploration | Department of Mathematics 
   
    - <font size="2"><strong>Responsibilities:</strong> Weekly lecture in laboratory course, Student project supervision (15 projects)</font> 
