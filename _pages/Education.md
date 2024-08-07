@@ -30,7 +30,7 @@ Econometrics • Applied Multivariate Analysis • Design & Analysis of Experime
 
    - <font size="2"><strong>Courses taken:</strong> Stochastic Process • Artificial Intelligence • Regression Analysis • Time Series
 Analysis • Biostatistics • Introduction to Robust Statistics • Design & Analysis of Experiment • Econometrics
-• Multivariate Analysis • Stochastic Process • ANOVA & Linear Inference • Probablity Theory</font> 
+• Multivariate Analysis • Stochastic Process • ANOVA & Linear Inference • Probablity Theory • Principles of Economics • Mathematical Demography & Actuarial Statistics • Research Methodology • Ordinary Differential Equation & Analytical Geometry • Sampling Distribution & Order Statistics • Theory of Estimation • Calculus • Simulation • Operations Research</font> 
    ---
 
 <!-- _pages/publications.md -->
