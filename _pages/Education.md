@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 
+---
 - ##### MS in Statistics | University of Rhode Island
 ###### Aug, 2022 - Present | Kingston, Rhode Island
 
