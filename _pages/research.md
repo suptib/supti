@@ -7,6 +7,4 @@ nav: true
 nav_order: 7
 ---
 
-- ###### head
----
-
+Our team includes 
