@@ -33,4 +33,4 @@ horizontal: true
    - <font size="2"><strong>Tools Used:</strong> RStudio — visualization for big datasets (library: tidyverse, ggplot2), data transformation (library: nycflights13, dplyr), tidy operations (library: tidyr), text manipulation (library: stringr)</font> 
    ---   
 
-   
+- <font size="2">I am interested in time series and </font>   
