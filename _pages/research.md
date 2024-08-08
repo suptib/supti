@@ -5,6 +5,7 @@ title: Research
 description: I started working as a teaching assistant in Fall 2022. Here's a brief description of my teaching experience 
 nav: true
 nav_order: 7
+display categories: [R, R]
 ---
 
 - ##### Fall 2022 & Fall 2023 | University of Rhode Island
