@@ -6,6 +6,7 @@ description: I started working as a teaching assistant in Fall 2022. Here's a br
 nav: true
 nav_order: 7
 display categories: [R, R]
+horizontal: true
 ---
 
 - ##### Fall 2022 & Fall 2023 | University of Rhode Island
