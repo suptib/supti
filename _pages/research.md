@@ -7,4 +7,4 @@ nav: true
 nav_order: 7
 ---
 
-Our team includes 
+- Our team includes 
