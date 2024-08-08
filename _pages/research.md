@@ -9,4 +9,4 @@ display categories: [R, R]
 horizontal: true
 --- 
 
- <font size="3"><p align="center">I am interested in time series data and extracting features from longitudinal data by applying machine learning algorithms. Our project is entitled as Neonatal Cry Acoustics and Neurobehavioral Characteristics as Early Markers of Risk for Autism Spectrum Disorder. We are using [Infant Cry Acoustics](https://childrenatrisk.med.brown.edu/research/ongoing-studies/autism) to find significant features in development </p></font>    
+ <font size="3"><p align="left">I am interested in time series data and extracting features from longitudinal data by applying machine learning algorithms. Our project is entitled as Neonatal Cry Acoustics and Neurobehavioral Characteristics as Early Markers of Risk for Autism Spectrum Disorder. We are using [Infant Cry Acoustics](https://childrenatrisk.med.brown.edu/research/ongoing-studies/autism) to find significant features in development </p></font>    
