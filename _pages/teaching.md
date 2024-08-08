@@ -7,6 +7,7 @@ nav: true
 nav_order: 6
 ---
 
+---
 - ##### Fall 2022 & Fall 2023 | University of Rhode Island
 ###### STA 308-Introductory Statistics | Department of Computer Science & Statistics 
   
