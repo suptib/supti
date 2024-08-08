@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /research/
 title: Research
-description: members of the lab or group
+description: members of the lab or group 
 nav: true
 nav_order: 7
 
@@ -24,8 +24,4 @@ nav_order: 7
     # more_info: <!-->
      # <p>555 your office number</p>
      # <p>123 your address street</p>
-     # <p>Your City, State 12345</p> -->
-
----
-
-the main 
+     # <p>Your City, State 12345</p> --> 
