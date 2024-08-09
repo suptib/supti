@@ -25,7 +25,7 @@ nav_order: 6
    ---
 
 - ##### Summer 2023 | University of Rhode Island
-###### Co-instructor, R Programming Language Workshop Series | AI 
+###### Co-instructor, R Programming Language Workshop Series | AI Lab
   
    - <font size="2"><strong>Responsibilities:</strong> Weekly lecture in laboratory course, Student project supervision (15 projects)</font> 
    - <font size="2"><strong>Topics Covered:</strong> Methods for data acquisition (database connections, web scraping), cleaning (data type conversion, string manipulation, handling missing values), and aggregation (summarizing data, reshaping data). Also, taught computer-based systems and methods for data storage, retrieval, manipulation, and visualization. Showed exploratory analysis using the R language to create tables, plots, and simple models</font> 
