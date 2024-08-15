@@ -7,6 +7,12 @@ nav: true
 nav_order: 4
 display_categories: [R, R]
 horizontal: true
+
+profile: 
+ align: right
+ image: mva.png
+ image circular: false
+
 ---
 
 ---
