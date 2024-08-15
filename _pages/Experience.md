@@ -5,7 +5,7 @@ permalink: /experience/
 description: 
 nav: true
 nav_order: 4
-display_categories: [R, R]
+#display_categories: [R, R]
 horizontal: true
 
 profile: 
@@ -16,8 +16,13 @@ profile:
     <p>9 Greenhouse Road, Tyler Hall, Rm 264</p>
     <p>Kingston, RI 02881</p>
 
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
-vgfbfbf 
+
+Hi 
 ---
 
 cdsvdfv 
