@@ -9,12 +9,15 @@ display_categories: [R, R]
 horizontal: true
 
 profile: 
- align: right
- image: mva.png
- image circular: false
+  align: right
+  image: mva.png
+  image circular: false
+  more info: > 
+    <p>9 Greenhouse Road, Tyler Hall, Rm 264</p>
+    <p>Kingston, RI 02881</p>
 
 ---
-
+vgfbfbf 
 ---
 
 cdsvdfv 
