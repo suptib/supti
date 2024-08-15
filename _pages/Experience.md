@@ -9,7 +9,11 @@ display_categories: [R, R]
 horizontal: true
 ---
 
- pages/projects 
+---
+
+cdsvdfv
+
+<!-- pages/projects 
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
    A few of my class projects from several courses during my Master's program at URI     
@@ -37,7 +41,7 @@ horizontal: true
   {% endif %}
   {% endfor %}
 
-{% else %}
+{% else %}/
 
  Display projects without categories 
 
@@ -62,4 +66,4 @@ horizontal: true
   </div>
   {% endif %}
 {% endif %}
-</div>
+</div> -->
