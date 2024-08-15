@@ -25,11 +25,16 @@ social: false # includes social icons at the bottom of the page
 Hi 
 ---
 
+![text](mva.png)
+
 cdsvdfv 
 
-```
+```py
+ sum = a
 
 ```
+> blockquote 
+
 
 <!-- pages/projects 
 <div class="projects">
