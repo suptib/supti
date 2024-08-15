@@ -2,7 +2,7 @@
 layout: page
 title: Experience 
 permalink: /experience/
-description: A growing collection of your cool projec
+description: 
 nav: true
 nav_order: 4
 display_categories: [R, R]
@@ -11,7 +11,7 @@ horizontal: true
 
 ---
 
-cdsvdfv
+cdsvdfv 
 
 <!-- pages/projects 
 <div class="projects">
