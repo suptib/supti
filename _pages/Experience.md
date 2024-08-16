@@ -8,11 +8,10 @@ nav_order: 4
 #display_categories: [R, R]
 horizontal: true
 ---
-  
-[Research](https://suptib.github.io/research/)
 
+> <font size="2">Neural Networks and Deep Learning</font>
+ 
 
-> blockquote 
 
 
 <!-- pages/projects 
