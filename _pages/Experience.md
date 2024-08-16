@@ -8,9 +8,7 @@ nav_order: 4
 #display_categories: [R, R]
 horizontal: true
 ---
-
->>> Hi  
----
+  
 [Research](https://suptib.github.io/research/)
 
 
