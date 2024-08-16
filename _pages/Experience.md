@@ -7,29 +7,13 @@ nav: true
 nav_order: 4
 #display_categories: [R, R]
 horizontal: true
-
-profile: 
-  align: right
-  image: mva.png
-  image circular: false
-  more info: > 
-    <p>9 Greenhouse Road, Tyler Hall, Rm 264</p>
-    <p>Kingston, RI 02881</p>
-
-news: false # includes a list of news items
-latest_posts: false # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
 ---
 
-Hi  dsvdfv
+Hi  
 ---
 
-![text](mva.png)
 
-cdsvdfv 
-
-```py
+```
  sum = a
 
 ```
@@ -90,3 +74,6 @@ cdsvdfv
   {% endif %}
 {% endif %}
 </div> -->
+
+
+[def]: prof_pic.jpg
