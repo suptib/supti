@@ -27,6 +27,8 @@ Attentional State for Faces and Scenes</mark></font>**
 
    Cox Proportional Hazards Regression for modeling the time to thyroid cancer onset as a function of TSH levels and radiation exposure (R Package: survival)
 
+   Logistic Regression to find the probability of thyroid disease as a function of TSH levels, age, and family history (R Package: thyroid, glm() with family=binomial)
+
 
 ---
 
