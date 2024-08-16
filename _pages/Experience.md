@@ -2,16 +2,18 @@
 layout: page
 title: Experience 
 permalink: /experience/
-description: 
+description: A few of my master's coursework projects 
 nav: true
 nav_order: 4
 #display_categories: [R, R]
 horizontal: true
 ---
 
+---
 <font size="2"><mark>Neural Networks and Deep Learning</mark></font>
 
-
+---
+  [**Multivariate Statistical Methods**](https://github.com/suptibMultivariate-Methods-on-Wine-Data)
 
 
 <!-- pages/projects 
