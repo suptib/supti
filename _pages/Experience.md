@@ -13,10 +13,10 @@ horizontal: true
 <font size="2"><mark>Neural Networks and Deep Learning</mark></font>
 
 ---
-  [<mark>**Multivariate Statistical Methods**</mark>](https://github.com/suptib/Multivariate-Methods-on-Wine-Data)
+  [**<mark>Multivariate Statistical Methods</mark>**](https://github.com/suptib/Multivariate-Methods-on-Wine-Data)
 
 ---
-[<mark>**Applied Regression Analysis**</mark>](https://github.com/suptib/Applied-Regression-Analysis)
+[**<mark>Applied Regression Analysis</mark>**](https://github.com/suptib/Applied-Regression-Analysis)
 
 ---
 
