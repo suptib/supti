@@ -16,7 +16,9 @@ Attentional State for Faces and Scenes</mark></font>**
 
 ---
   [**<font size="3"><mark>Multivariate Statistical Methods</mark></font>**](https://github.com/suptib/Multivariate-Methods-on-Wine-Data)
-  - <font size="2">Applied Multidimensional Scaling for visualization,similarity or dissimilarity between data points (R Packages: MASS, smacof), Discriminant Analysis(LDA/QDA) to classify observations into predefined categories (R Package: MASS)</font> 
+  - <font size="2">Applied Multidimensional Scaling (MDS) for visualization,similarity or dissimilarity between data points (R Packages: MASS, smacof)  
+  Discriminant Analysis(LDA/QDA) to classify observations into predefined categories (R Package: MASS)  
+  Principal Component Analysis (PCA) to reduce dimensionality, visualize data in lower dimensions while preserving variance (R Packages: stats, FactoMineR, factoextra)</font> 
 ---
 [**<font size="3"><mark>Applied Regression Analysis</mark></font>**](https://github.com/suptib/Applied-Regression-Analysis)
 
