@@ -22,12 +22,12 @@ Attentional State for Faces and Scenes</mark></font>**
   
     Principal Component Analysis (PCA) to reduce dimensionality, visualize data in lower dimensions while preserving variance (R Packages: stats, FactoMineR, factoextra)</font> 
 ---
-[**<font size="3"><mark>Applied Regression Analysis</mark></font>**](https://github.com/suptib/Applied-Regression-Analysis)
- - <font size="2">Applied Ridge Regression to perform variable selection (R Package:'glmnet')  
+  [**<font size="3"><mark>Applied Regression Analysis</mark></font>**](https://github.com/suptib/Applied-Regression-Analysis)
+  - <font size="2">Applied Ridge Regression to perform variable selection (R Package:'glmnet')  
 
-   Cox Proportional Hazards Regression for modeling the time to thyroid cancer onset as a function of TSH levels and radiation exposure (R Package: survival)
+    Cox Proportional Hazards Regression for modeling the time to thyroid cancer onset as a function of TSH levels and radiation exposure (R Package: survival)
 
-   Logistic Regression to find the probability of thyroid disease as a function of TSH levels, age, and family history (R Package: thyroid, glm() with family=binomial)</font>
+    Logistic Regression to find the probability of thyroid disease as a function of TSH levels, age, and family history (R Package: thyroid, glm() with family=binomial)</font>
 
 ---
 
