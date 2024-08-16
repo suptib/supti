@@ -21,6 +21,7 @@ Attentional State for Faces and Scenes</mark></font>**
     Discriminant Analysis(LDA/QDA) to classify observations into predefined categories (R Package: MASS)  
   
     Principal Component Analysis (PCA) to reduce dimensionality, visualize data in lower dimensions while preserving variance (R Packages: stats, FactoMineR, factoextra)</font> 
+    
 ---
   [**<font size="3"><mark>Applied Regression Analysis</mark></font>**](https://github.com/suptib/Applied-Regression-Analysis)
   - <font size="2">Applied Ridge Regression to perform variable selection (R Package:'glmnet')  
