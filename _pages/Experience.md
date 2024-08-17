@@ -10,8 +10,8 @@ horizontal: true
 ---
 
 ---
-**<font size="3"><mark>Analyzing EEG Brainwaves to Decode
-Attentional State for Faces and Scenes</mark></font>**  
+[**<font size="3"><mark>Analyzing EEG Brainwaves to Decode
+Attentional State for Faces and Scenes</mark></font>**](https://github.com/suptib/Analyzing-EEG-Brainwaves-to-Decode-Attentional-States-for-Faces-and-Scenes)  
  - <font size="2">Developed a Multilayer Perceptron model for EEG signal classification using TensorFlow's Keras API.</font></br> 
 
    <font size="2">Trained over 50 epochs with a batch size of 32 and a 20 validation split using Adam optimizer and categorical cross entropy loss function.</font> 
